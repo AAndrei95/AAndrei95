@@ -1,5 +1,3 @@
-![Profile Views](https://komarev.com)
-
 # Hi, I'm Andrei 👋
 
 ### Graduate Software Engineer | Backend Development | Python • C# • Java
